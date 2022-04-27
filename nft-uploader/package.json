@@ -1,0 +1,12 @@
+{
+  "name": "nft-uploader",
+  "version": "1.0.0",
+  "description": "uploads nft metadata and image to ipfs with pinata",
+  "main": "index.js",
+  "author": "Pi2r",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.25"
+  }
+}
